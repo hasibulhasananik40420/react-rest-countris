@@ -1,0 +1,12 @@
+.people{
+    background-color: #CFD1D5;
+    margin: 20px;
+    padding: 10px;
+    /* border: 1px solid salmon; */
+    border-radius: 10px;
+
+}
+.people img{
+    height: 100px ;
+    width: 200px;
+}

@@ -1,0 +1,5 @@
+ .container{
+     /* background-color: #CFD1D5; */
+     display: grid;
+     grid-template-columns: repeat(3,1fr);
+ }
